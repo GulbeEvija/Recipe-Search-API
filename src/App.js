@@ -15,13 +15,13 @@ function App() {
     <Router>
     <nav>
       <Link to="/about" className='link'>About</Link>
-      <Link to="/recipes" className='link'>Recipes</Link>
+      <Link to="/" className='link'>Recipes</Link>
       <Link to="/contact" className='link'>Contact</Link>
     </nav>
 
     <Routes>
       <Route path="/about" element={<About />} />
-      <Route path="/recipes" element={<Recipes />} />
+      <Route path="/" element={<Recipes />} />
       <Route path="/contact" element={<Contact />} />
     </Routes>
   </Router>
