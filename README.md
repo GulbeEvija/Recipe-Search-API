@@ -2,17 +2,17 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/GulbeEvija/Recipe-App-React">
+  <a href="https://github.com/GulbeEvija/Recipe-Search-API">
     <img src="cookIcon.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Recipe App</h3>
 
   <p align="center">
-    App built with React.
+    App built with React and API.
     <br />
     <br />
-    <a href="https://jazzy-queijadas-5bb9d6.netlify.app/">View project live on Netlify</a>
+    <a href="https://charming-cactus-2087d0.netlify.app/">View project live on Netlify</a>
   </p>
 </div>
 
@@ -91,7 +91,7 @@ If you have any suggestions that would make this project better, please send me 
 
 Evija Gulbe - [LinkedIn](https://www.linkedin.com/in/evija-gulbe-534673240/)
 
-Project Link: [https://github.com/GulbeEvija/Recipe-App-React](https://github.com/GulbeEvija/Recipe-App-React)
+Project Link: [https://github.com/GulbeEvija/Recipe-Search-API](https://github.com/GulbeEvija/Recipe-Search-API)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
