@@ -45,10 +45,8 @@ function Recipes() {
         <div className="contTwo">
             <form onSubmit={finalSearch}>
                 <input className="searchBar" onChange={myRecipeSearch} value={mySearch} placeholder="Enter ingredient(s)..."></input>
+                <button className="searchBtn">Search</button>
             </form>
-            <div>
-              <button className="searchBtn" onClick={finalSearch}>Search</button>
-            </div>
         </div>
 
             {myRecipes.map((element, index) => (
